@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Pixeladed/with-hook/compare/v1.0.0...v1.1.0) (2020-08-20)
+
+
+### Features
+
+* **README:** update docs ([6f6d9ef](https://github.com/Pixeladed/with-hook/commit/6f6d9efc5dac526a74f6ef98c3ccaf398e94f138))
+
 # 1.0.0 (2020-08-20)
 
 
