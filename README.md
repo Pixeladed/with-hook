@@ -1,6 +1,6 @@
 # withHook
 
-This is a compatibility function that converts a hook into a higher order function that can be used with class components.
+This is a compatibility function that converts a React hook into a higher order component that can be used with class components.
 
 ## Example
 
