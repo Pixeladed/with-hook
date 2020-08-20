@@ -37,9 +37,9 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "redux-async-adapter",
+  "name": "react-use-hook",
   "author": "Pixeladed",
-  "module": "dist/redux-async-adapter.esm.js",
+  "module": "dist/react-use-hook.esm.js",
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/commit-analyzer": "^8.0.1",
