@@ -37,9 +37,9 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "react-use-hook",
+  "name": "react-with-hook",
   "author": "Pixeladed",
-  "module": "dist/react-use-hook.esm.js",
+  "module": "dist/react-with-hook.esm.js",
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/commit-analyzer": "^8.0.1",

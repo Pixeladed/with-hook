@@ -1,4 +1,4 @@
-# withHook
+# react-with-hook
 
 This is a compatibility function that converts a React hook into a higher order component that can be used with class components.
 
