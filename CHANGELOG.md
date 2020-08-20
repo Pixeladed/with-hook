@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/Pixeladed/with-hook/compare/v1.2.0...v1.3.0) (2020-08-20)
+
+
+### Features
+
+* rename package again ([f6c1cf8](https://github.com/Pixeladed/with-hook/commit/f6c1cf8a975483be821286583d70ed069554dfed))
+
 # [1.2.0](https://github.com/Pixeladed/with-hook/compare/v1.1.0...v1.2.0) (2020-08-20)
 
 
